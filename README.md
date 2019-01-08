@@ -28,4 +28,4 @@ The dataset has been collected and analysed during a research collaboration of W
 Please cite: Andrea Dal Pozzolo, Olivier Caelen, Reid A. Johnson and Gianluca Bontempi. Calibrating Probability with Undersampling for Unbalanced Classification. In Symposium on Computational Intelligence and Data Mining (CIDM), IEEE, 2015
 
 # Link to Jupyter Notebook in Repository
-Notebook <CreditCardFraudDetection/CrediCard.ipynb>
+[Notebook](CreditCardFraudDetection/CrediCard.ipynb)
